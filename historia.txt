@@ -3,7 +3,7 @@ Esta es la historia de Jesús Duque.
 Jesús Duque tiene 43 años y nació en Venezuela,
 viviendo en todo el mundo.
 
-Este es el aporte de jesujeduardo a jeduquel.
+Este es el aporte de jesujeduardo a jeduquel. Y este es el cambio luego de implementar SSH.
 
 Hoy hablaremos de su vida. 
 
